@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObjectStudent\ExampleArrayObjectStudent\bin\Debug\ExampleArrayObjectStudent.exe.config
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObjectStudent\ExampleArrayObjectStudent\bin\Debug\ExampleArrayObjectStudent.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObjectStudent\ExampleArrayObjectStudent\bin\Debug\ExampleArrayObjectStudent.pdb
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObjectStudent\ExampleArrayObjectStudent\obj\Debug\ExampleArrayObjectStudent.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObjectStudent\ExampleArrayObjectStudent\obj\Debug\ExampleArrayObjectStudent.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObjectStudent\ExampleArrayObjectStudent\obj\Debug\ExampleArrayObjectStudent.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObjectStudent\ExampleArrayObjectStudent\obj\Debug\ExampleArrayObjectStudent.pdb

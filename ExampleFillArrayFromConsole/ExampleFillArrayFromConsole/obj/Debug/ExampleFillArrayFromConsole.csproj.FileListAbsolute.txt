@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleFillArrayFromConsole\ExampleFillArrayFromConsole\bin\Debug\ExampleFillArrayFromConsole.exe.config
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleFillArrayFromConsole\ExampleFillArrayFromConsole\bin\Debug\ExampleFillArrayFromConsole.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleFillArrayFromConsole\ExampleFillArrayFromConsole\bin\Debug\ExampleFillArrayFromConsole.pdb
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleFillArrayFromConsole\ExampleFillArrayFromConsole\obj\Debug\ExampleFillArrayFromConsole.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleFillArrayFromConsole\ExampleFillArrayFromConsole\obj\Debug\ExampleFillArrayFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleFillArrayFromConsole\ExampleFillArrayFromConsole\obj\Debug\ExampleFillArrayFromConsole.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleFillArrayFromConsole\ExampleFillArrayFromConsole\obj\Debug\ExampleFillArrayFromConsole.pdb

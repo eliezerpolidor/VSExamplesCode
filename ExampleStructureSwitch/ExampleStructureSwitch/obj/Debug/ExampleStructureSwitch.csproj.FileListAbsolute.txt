@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleStructureSwitch\ExampleStructureSwitch\bin\Debug\ExampleStructureSwitch.exe.config
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleStructureSwitch\ExampleStructureSwitch\bin\Debug\ExampleStructureSwitch.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleStructureSwitch\ExampleStructureSwitch\bin\Debug\ExampleStructureSwitch.pdb
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleStructureSwitch\ExampleStructureSwitch\obj\Debug\ExampleStructureSwitch.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleStructureSwitch\ExampleStructureSwitch\obj\Debug\ExampleStructureSwitch.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleStructureSwitch\ExampleStructureSwitch\obj\Debug\ExampleStructureSwitch.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleStructureSwitch\ExampleStructureSwitch\obj\Debug\ExampleStructureSwitch.pdb

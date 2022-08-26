@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObject\ExampleArrayObject\bin\Debug\ExampleArrayObject.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObject\ExampleArrayObject\bin\Debug\ExampleArrayObject.exe.config
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObject\ExampleArrayObject\bin\Debug\ExampleArrayObject.pdb
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObject\ExampleArrayObject\obj\Debug\ExampleArrayObject.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObject\ExampleArrayObject\obj\Debug\ExampleArrayObject.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObject\ExampleArrayObject\obj\Debug\ExampleArrayObject.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayObject\ExampleArrayObject\obj\Debug\ExampleArrayObject.pdb

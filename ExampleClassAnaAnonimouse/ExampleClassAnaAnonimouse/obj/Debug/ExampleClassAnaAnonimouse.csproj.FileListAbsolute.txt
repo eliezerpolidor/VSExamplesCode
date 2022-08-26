@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleClassAnaAnonimouse\ExampleClassAnaAnonimouse\bin\Debug\ExampleClassAnaAnonimouse.exe.config
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleClassAnaAnonimouse\ExampleClassAnaAnonimouse\bin\Debug\ExampleClassAnaAnonimouse.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleClassAnaAnonimouse\ExampleClassAnaAnonimouse\bin\Debug\ExampleClassAnaAnonimouse.pdb
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleClassAnaAnonimouse\ExampleClassAnaAnonimouse\obj\Debug\ExampleClassAnaAnonimouse.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleClassAnaAnonimouse\ExampleClassAnaAnonimouse\obj\Debug\ExampleClassAnaAnonimouse.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleClassAnaAnonimouse\ExampleClassAnaAnonimouse\obj\Debug\ExampleClassAnaAnonimouse.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleClassAnaAnonimouse\ExampleClassAnaAnonimouse\obj\Debug\ExampleClassAnaAnonimouse.pdb

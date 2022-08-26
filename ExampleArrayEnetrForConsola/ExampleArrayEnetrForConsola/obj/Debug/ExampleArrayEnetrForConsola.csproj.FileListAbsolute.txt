@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayEnetrForConsola\ExampleArrayEnetrForConsola\bin\Debug\ExampleArrayEnetrForConsola.exe.config
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayEnetrForConsola\ExampleArrayEnetrForConsola\bin\Debug\ExampleArrayEnetrForConsola.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayEnetrForConsola\ExampleArrayEnetrForConsola\bin\Debug\ExampleArrayEnetrForConsola.pdb
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayEnetrForConsola\ExampleArrayEnetrForConsola\obj\Debug\ExampleArrayEnetrForConsola.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayEnetrForConsola\ExampleArrayEnetrForConsola\obj\Debug\ExampleArrayEnetrForConsola.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayEnetrForConsola\ExampleArrayEnetrForConsola\obj\Debug\ExampleArrayEnetrForConsola.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleArrayEnetrForConsola\ExampleArrayEnetrForConsola\obj\Debug\ExampleArrayEnetrForConsola.pdb

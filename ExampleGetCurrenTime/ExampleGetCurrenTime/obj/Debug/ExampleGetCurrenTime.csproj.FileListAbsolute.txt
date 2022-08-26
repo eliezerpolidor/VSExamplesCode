@@ -1,0 +1,7 @@
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleGetCurrenTime\ExampleGetCurrenTime\bin\Debug\ExampleGetCurrenTime.exe.config
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleGetCurrenTime\ExampleGetCurrenTime\bin\Debug\ExampleGetCurrenTime.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleGetCurrenTime\ExampleGetCurrenTime\bin\Debug\ExampleGetCurrenTime.pdb
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleGetCurrenTime\ExampleGetCurrenTime\obj\Debug\ExampleGetCurrenTime.csproj.AssemblyReference.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleGetCurrenTime\ExampleGetCurrenTime\obj\Debug\ExampleGetCurrenTime.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleGetCurrenTime\ExampleGetCurrenTime\obj\Debug\ExampleGetCurrenTime.exe
+C:\Users\eliez\Desktop\EliezerP\Curso2022\VisualStudio\Examples\ExampleGetCurrenTime\ExampleGetCurrenTime\obj\Debug\ExampleGetCurrenTime.pdb
